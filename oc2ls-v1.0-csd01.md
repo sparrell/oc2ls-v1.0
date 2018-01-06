@@ -10,18 +10,18 @@
 * http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.docx
 
 **Previous Version:**
-&nbsp;&nbsp;&nbsp;N/A
+* N/A
 
 **Technical Committee:**
-&nbsp;&nbsp;&nbsp;[OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2)
+* [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2)
 
 **Chairs**
-&nbsp;&nbsp;&nbsp;Joe Brule (jmbrule@nsa.gov), National Security Agency
-&nbsp;&nbsp;&nbsp;Sounil Yu (sounil.yu@bankofamerica.com), Bank of America
+* Joe Brule (jmbrule@nsa.gov), National Security Agency
+* Sounil Yu (sounil.yu@bankofamerica.com), Bank of America
 
 **Editors**
-&nbsp;&nbsp;&nbsp;Jason Romano (jdroman@nsa.gov), National Security Agency
-&nbsp;&nbsp;&nbsp;Duncan Sparrell (duncan@sfractal.com), sFractal Consulting
+* Jason Romano (jdroman@nsa.gov), National Security Agency
+* Duncan Sparrell (duncan@sfractal.com), sFractal Consulting
 
 ## Abstract
 Cyberattacks are increasingly sophisticated, less expensive to execute, dynamic and automated. The provision of cyberdefense via statically configured products operating in isolation is no longer tenable. Standardized interfaces, protocols and data models will facilitate the integration of the functional blocks within a system or enterprise. Open Command and Control (OpenC2) is a concise and extensible language to enable the command and control of cyber defense components, subsystems and/or systems in a manner that is agnostic of the underlying products, technologies, transport mechanisms or other aspects of the implementation. It should be understood that a language such as OpenC2 is necessary but insufficient to enable coordinated cyber response. Other aspects of coordinated cyber response such as sensing, analytics, and selecting appropriate courses of action are beyond the scope of OpenC2.
