@@ -37,7 +37,9 @@ Note that any machine-readable content (Computer Language Definitions) declared 
 
 ### Citation format:
 When referencing this specification the following citation format should be used:
+
 **[OpenC2-Lang-v1.0]**
+
 *Open Command and Control (OpenC2) Language Specification Version 1.0*. Edited by Jason Romano and Duncan Sparrell. 14 November 2017. OASIS Committee Specification Draft 01. http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.html. Latest version: http://docs.oasis-open.org/openc2/oc2ls/v1.0/oc2ls-v1.0.html.
 
 -------
@@ -50,14 +52,13 @@ This document and translations of it may be copied and furnished to others, and 
 
 The name "OASIS" is a trademark of [OASIS](https://www.oasis-open.org/), the owner and developer of this specification, and should be used only to refer to the organization and its official outputs. OASIS welcomes reference to, and implementation and use of, specifications, while reserving the right to enforce its marks against misleading uses. Please see https://www.oasis-open.org/policies-guidelines/trademark for above guidance.
 
-still working here
-    
-Frontpiece
+-------
+
+## Table of Contents
+[TOC]
 
 -------
 
-##Table of Contents
-[TOC]
 # 1 Introduction
 The OpenC2 Language Specification defines a language used to compose messages that instruct and coordinate the command and control of cyber defenses between and within networks and systems.
 
