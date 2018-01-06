@@ -1,9 +1,9 @@
 ![OASIS Logo](http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01_files/image001.jpg)
 ***
-#Open Command and Control (OpenC2) Language Specification Version 1.0
-##Committee Specification Draft 01
-##14 November 2017  
-####Specification URIs
+# Open Command and Control (OpenC2) Language Specification Version 1.0
+## Committee Specification Draft 01
+## 14 November 2017  
+#### Specification URIs
 **This version:**
 &nbsp;&nbsp;&nbsp;http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.pdf (Authoritative)
 &nbsp;&nbsp;&nbsp;http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.html
@@ -23,9 +23,9 @@
 &nbsp;&nbsp;&nbsp;Jason Romano (jdroman@nsa.gov), National Security Agency
 &nbsp;&nbsp;&nbsp;Duncan Sparrell (duncan@sfractal.com), sFractal Consulting
 
-##Abstract
+## Abstract
 Cyberattacks are increasingly sophisticated, less expensive to execute, dynamic and automated. The provision of cyberdefense via statically configured products operating in isolation is no longer tenable. Standardized interfaces, protocols and data models will facilitate the integration of the functional blocks within a system or enterprise. Open Command and Control (OpenC2) is a concise and extensible language to enable the command and control of cyber defense components, subsystems and/or systems in a manner that is agnostic of the underlying products, technologies, transport mechanisms or other aspects of the implementation. It should be understood that a language such as OpenC2 is necessary but insufficient to enable coordinated cyber response. Other aspects of coordinated cyber response such as sensing, analytics, and selecting appropriate courses of action are beyond the scope of OpenC2.
-##Status
+## Status
 This document was last revised or approved by the OASIS Open Command and Control (OpenC2) TC on the above date. The level of approval is also listed above. Check the “Latest version” location noted above for possible later revisions of this document. Any other numbered Versions and other technical work produced by the Technical Committee (TC) are listed at https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2#technical.
 
 TC members should send comments on this specification to the TC’s email list. Others should send comments to the TC’s public comment list, after subscribing to it by following the
@@ -41,7 +41,7 @@ When referencing this specification the following citation format should be used
 *Open Command and Control (OpenC2) Language Specification Version 1.0*. Edited by Jason Romano and Duncan Sparrell. 14 November 2017. OASIS Committee Specification Draft 01. http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.html. Latest version: http://docs.oasis-open.org/openc2/oc2ls/v1.0/oc2ls-v1.0.html.
 
 -------
-##Notices
+## Notices
 Copyright © OASIS Open 2017. All Rights Reserved.
 All capitalized terms in the following text have the meanings assigned to them in the OASIS Intellectual Property Rights Policy (the "OASIS IPR Policy"). The full [Policy](https://www.oasis-open.org/policies-guidelines/ipr) may be found at the OASIS website.
 
