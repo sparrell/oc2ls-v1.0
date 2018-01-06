@@ -5,9 +5,9 @@
 ## 14 November 2017  
 #### Specification URIs
 **This version:**
-&nbsp;&nbsp;&nbsp;http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.pdf (Authoritative)
-&nbsp;&nbsp;&nbsp;http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.html
-&nbsp;&nbsp;&nbsp;http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.docx
+* http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.pdf (Authoritative)
+* http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.html
+* http://docs.oasis-open.org/openc2/oc2ls/v1.0/csd01/oc2ls-v1.0-csd01.docx
 
 **Previous Version:**
 &nbsp;&nbsp;&nbsp;N/A
